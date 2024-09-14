@@ -1,6 +1,7 @@
 # Dashboard-for-Account-Receivable-on-Power-Bi
 I, Ahsan Ahmed has created a Dashboard for a month of July'24 for the Customer Receivable of a Service Company
 using Microsoft Power Bi
+which consist of various Metrics for the TRUE Picture of the Companys standing towards its recovery from there customers
 
 ![image](https://github.com/user-attachments/assets/29be0cf5-1e95-43f7-8fb4-a3dd960992f5)
 
